@@ -1,0 +1,63 @@
+.main-container {
+  padding-left: 64px;
+  padding-top: 20px;
+  background-color: #f1f5f9;
+}
+
+.select {
+  width: 30%;
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.option {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.project-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.retry-btn {
+  background-color: #328af2;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  width: 150px;
+  height: 32px;
+}
+
+.failure-img {
+  width: 60%;
+}
+
+.failure-heading {
+  color: #475569;
+}
+
+.failure-info {
+  color: #475569;
+}

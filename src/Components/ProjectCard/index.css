@@ -1,0 +1,15 @@
+.list-item {
+  background-color: #ffffff;
+  margin-right: 12px;
+  margin-bottom: 32px;
+  border-radius: 12px;
+}
+
+.name {
+  font-weight: 600;
+  padding-left: 16px;
+}
+
+.project-image {
+  border-radius: 6px;
+}
